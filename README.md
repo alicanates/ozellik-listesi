@@ -1,0 +1,2 @@
+# ozellik-listesi
+CENG302
