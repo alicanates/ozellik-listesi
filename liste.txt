@@ -1,4 +1,4 @@
-1. Kullanıcı dostu arayüz
-2. Yüksek performans
-3. Kolay entegrasyon
-4. Sürekli güncelleme desteği
+1. Yüksek performans
+2. Kolay entegrasyon
+3. Sürekli güncelleme desteği
+4. Kullanıcı dostu arayüz
