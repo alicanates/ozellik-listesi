@@ -1,5 +1,5 @@
-1. Kullanıcı dostu arayüz
+1. Güvenli veri yönetimi
 2. Yüksek performans
-3. Güvenli veri yönetimi
+3. Kullanıcı dostu arayüz
 4. Kolay entegrasyon
 5. Sürekli güncelleme desteği
